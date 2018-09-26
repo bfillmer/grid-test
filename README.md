@@ -1,7 +1,7 @@
 
-# Greenfield
+# Grid Test
 
-Opinionated application organization and libraries for bootstrapping new React-based applications.
+Attempting to rig something that would allow for IE11 compatiblity for css grid with styled-components.
 
 Build pipeline provided by [Create React App](https://github.com/facebookincubator/create-react-app).
 

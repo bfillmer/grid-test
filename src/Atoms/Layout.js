@@ -2,16 +2,14 @@
 import styled from 'styled-components'
 
 // GLOBAL WRAPPER
-export const Application = styled.main`
-  display: flex;
-  height: 100vh;
+export const Application = styled('div')`
   width: 100%;
-
-  align-items: center;
-  justify-content: center;
+  height: 100vh;
+  padding: 2rem;
 `
 
-// PRIMARY CONTENT AREA
-export const Section = styled.section`
-  max-width: 66rem;
+export const Block = styled('div')`
+  width: 100%;
+  height: 100%;
+  background-color: #a00;
 `

@@ -2,6 +2,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import { ThemeProvider } from 'styled-components'
+import 'babel-polyfill'
 
 import { Application } from 'Atoms'
 import { Routes } from 'Routes'
